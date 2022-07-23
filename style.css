@@ -1,11 +1,11 @@
 body {
   margin-bottom: 0px;
   padding: 0px;
-  background: url(pint.png);
+  background: url(wallpaper3.jpg);
   background-size: cover;
   background-position: center;
   font-family: sans-serif;
-  height: 155vh;
+  height: 100vh;
 }
 .login-box {
   width: 320px;
@@ -64,7 +64,7 @@ input[type="password"] {
 }
 .login-box input[type="submit"]:hover {
   cursor: pointer;
-  background: rgb(0, 190, 0);
+  background: rgb(255, 166, 0);
   color: #fff;
 }
 .login-box a {
